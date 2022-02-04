@@ -14,7 +14,7 @@ Pytorch 1.5.0
 
 Code supplied for training of the model under uniform sampling setting and corresponding model prediction. 
 
-For code for the analysis please contact. 
+The baseline model used in this work is available at https://git.fmrib.ox.ac.uk/vaanathi/truenet.
 
 If you use code from this repository please cite:
 
